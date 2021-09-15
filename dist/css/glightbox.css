@@ -940,3 +940,10 @@ iframe.wait-autoplay {
     background: #000;
   }
 }
+/*---------------------- my code -----------------*/
+.heading{
+  background-color: #ffe084;
+  padding: 20px;
+  position:relative;
+
+}
