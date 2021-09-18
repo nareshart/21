@@ -404,7 +404,7 @@ strong {
     width: 100%;
     margin: 0 auto;
     /*background: url(head.jpg);*/
-    background: url(https://github.com/nareshart/21/blob/f808fb67f181b36536a4492b2e16f09c09556445/Images/head.jpg);/*demo/img/head.jpg*/
+    background: url(Images/head.jpg);/*demo/img/head.jpg*/
     background-size: cover;
     margin-bottom: 0px;
     height: 100vh;
