@@ -403,13 +403,7 @@ strong {
 .intro {
     width: 100%;
     margin: 0 auto;
-<<<<<<< HEAD
-    /*background: url(head.jpg);*/
-    background: url(Demo/img/head.jpg);/*demo/img/head.jpg*/
-=======
-  /* background: url(../img/head.jpg);
-    background: url(Img/head.jpg);*/
->>>>>>> 4079e835f83a78b19a3f63fd13c8c134e1438f41
+    background: url(Img/head.jpg);
     background-size: cover;
     margin-bottom: 0px;
     height: 100vh;
@@ -464,13 +458,13 @@ strong {
     float: left;
     opacity: 0;
     transform: translate3d(0, 40px, 0);
-    transition: opacity 0.2s, transform 0.35s; /*image apear animation*/
+    transition: opacity 0.2s, transform 0.35s;
 }
 
 .box.show {
     opacity: 1;
     transform: translate3d(0, 0, 0);
-    transition: opacity 0.4s, transform 0.35s;/*image apear animation*/
+    transition: opacity 0.4s, transform 0.35s;
 }
 
 .box .inner {
